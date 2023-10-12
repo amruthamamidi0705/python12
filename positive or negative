@@ -1,0 +1,4 @@
+#program to print given number is positive or not using short hand if
+
+n=int(input("Enter a num"))
+print("Positive number") if n>0 else print("Negative number")
